@@ -10,3 +10,4 @@ filetype plugin on
 set t_Co=256
 set hidden
 let mapleader = ","
+nnoremap <leader>q :q!<CR>
